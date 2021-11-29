@@ -1,0 +1,15 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfDatumKiezer\bin\Debug\WpfDatumKiezer.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfDatumKiezer\bin\Debug\WpfDatumKiezer.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfDatumKiezer\bin\Debug\WpfDatumKiezer.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfDatumKiezer\obj\Debug\WpfDatumKiezer.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfDatumKiezer\obj\Debug\MainWindow.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfDatumKiezer\obj\Debug\App.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfDatumKiezer\obj\Debug\WpfDatumKiezer_MarkupCompile.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfDatumKiezer\obj\Debug\WpfDatumKiezer_MarkupCompile.lref
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfDatumKiezer\obj\Debug\MainWindow.baml
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfDatumKiezer\obj\Debug\WpfDatumKiezer.g.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfDatumKiezer\obj\Debug\WpfDatumKiezer.Properties.Resources.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfDatumKiezer\obj\Debug\WpfDatumKiezer.csproj.GenerateResource.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfDatumKiezer\obj\Debug\WpfDatumKiezer.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfDatumKiezer\obj\Debug\WpfDatumKiezer.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfDatumKiezer\obj\Debug\WpfDatumKiezer.pdb

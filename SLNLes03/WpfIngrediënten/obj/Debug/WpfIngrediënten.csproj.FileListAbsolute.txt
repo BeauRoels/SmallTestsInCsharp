@@ -1,0 +1,15 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIngrediënten\obj\Debug\WpfIngrediënten.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIngrediënten\obj\Debug\MainWindow.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIngrediënten\obj\Debug\App.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIngrediënten\obj\Debug\WpfIngrediënten_MarkupCompile.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIngrediënten\obj\Debug\WpfIngrediënten_MarkupCompile.lref
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIngrediënten\bin\Debug\WpfIngrediënten.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIngrediënten\bin\Debug\WpfIngrediënten.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIngrediënten\bin\Debug\WpfIngrediënten.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIngrediënten\obj\Debug\MainWindow.baml
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIngrediënten\obj\Debug\WpfIngrediënten.g.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIngrediënten\obj\Debug\WpfIngrediënten.Properties.Resources.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIngrediënten\obj\Debug\WpfIngrediënten.csproj.GenerateResource.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIngrediënten\obj\Debug\WpfIngrediënten.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIngrediënten\obj\Debug\WpfIngrediënten.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIngrediënten\obj\Debug\WpfIngrediënten.pdb

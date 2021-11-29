@@ -1,0 +1,15 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIntrest\bin\Debug\WpfIntrest.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIntrest\bin\Debug\WpfIntrest.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIntrest\bin\Debug\WpfIntrest.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIntrest\obj\Debug\WpfIntrest.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIntrest\obj\Debug\MainWindow.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIntrest\obj\Debug\App.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIntrest\obj\Debug\WpfIntrest_MarkupCompile.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIntrest\obj\Debug\WpfIntrest_MarkupCompile.lref
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIntrest\obj\Debug\MainWindow.baml
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIntrest\obj\Debug\WpfIntrest.g.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIntrest\obj\Debug\WpfIntrest.Properties.Resources.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIntrest\obj\Debug\WpfIntrest.csproj.GenerateResource.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIntrest\obj\Debug\WpfIntrest.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIntrest\obj\Debug\WpfIntrest.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\WpfIntrest\obj\Debug\WpfIntrest.pdb

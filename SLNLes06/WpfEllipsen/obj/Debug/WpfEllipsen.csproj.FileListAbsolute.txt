@@ -1,0 +1,15 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfEllipsen\bin\Debug\WpfEllipsen.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfEllipsen\bin\Debug\WpfEllipsen.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfEllipsen\bin\Debug\WpfEllipsen.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfEllipsen\obj\Debug\WpfEllipsen.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfEllipsen\obj\Debug\MainWindow.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfEllipsen\obj\Debug\App.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfEllipsen\obj\Debug\WpfEllipsen_MarkupCompile.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfEllipsen\obj\Debug\WpfEllipsen_MarkupCompile.lref
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfEllipsen\obj\Debug\MainWindow.baml
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfEllipsen\obj\Debug\WpfEllipsen.g.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfEllipsen\obj\Debug\WpfEllipsen.Properties.Resources.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfEllipsen\obj\Debug\WpfEllipsen.csproj.GenerateResource.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfEllipsen\obj\Debug\WpfEllipsen.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfEllipsen\obj\Debug\WpfEllipsen.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfEllipsen\obj\Debug\WpfEllipsen.pdb

@@ -1,0 +1,14 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfSlideropgave\bin\Debug\WpfSlideropgave.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfSlideropgave\bin\Debug\WpfSlideropgave.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfSlideropgave\bin\Debug\WpfSlideropgave.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfSlideropgave\obj\Debug\MainWindow.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfSlideropgave\obj\Debug\App.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfSlideropgave\obj\Debug\WpfSlideropgave_MarkupCompile.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfSlideropgave\obj\Debug\WpfSlideropgave_MarkupCompile.lref
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfSlideropgave\obj\Debug\MainWindow.baml
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfSlideropgave\obj\Debug\WpfSlideropgave.g.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfSlideropgave\obj\Debug\WpfSlideropgave.Properties.Resources.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfSlideropgave\obj\Debug\WpfSlideropgave.csproj.GenerateResource.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfSlideropgave\obj\Debug\WpfSlideropgave.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfSlideropgave\obj\Debug\WpfSlideropgave.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfSlideropgave\obj\Debug\WpfSlideropgave.pdb

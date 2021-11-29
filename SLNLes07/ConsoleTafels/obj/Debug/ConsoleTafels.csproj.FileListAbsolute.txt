@@ -1,0 +1,7 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes07\ConsoleTafels\bin\Debug\ConsoleTafels.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes07\ConsoleTafels\bin\Debug\ConsoleTafels.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes07\ConsoleTafels\bin\Debug\ConsoleTafels.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes07\ConsoleTafels\obj\Debug\ConsoleTafels.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes07\ConsoleTafels\obj\Debug\ConsoleTafels.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes07\ConsoleTafels\obj\Debug\ConsoleTafels.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes07\ConsoleTafels\obj\Debug\ConsoleTafels.pdb

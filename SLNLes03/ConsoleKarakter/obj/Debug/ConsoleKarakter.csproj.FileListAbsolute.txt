@@ -1,0 +1,6 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleKarakter\bin\Debug\ConsoleKarakter.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleKarakter\bin\Debug\ConsoleKarakter.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleKarakter\bin\Debug\ConsoleKarakter.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleKarakter\obj\Debug\ConsoleKarakter.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleKarakter\obj\Debug\ConsoleKarakter.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleKarakter\obj\Debug\ConsoleKarakter.pdb

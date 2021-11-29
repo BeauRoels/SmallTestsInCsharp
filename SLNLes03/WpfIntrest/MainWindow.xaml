@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfIntrest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfIntrest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="startbedrag" HorizontalAlignment="Left" Margin="52,70,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="txtBedrag" HorizontalAlignment="Left" Height="23" Margin="216,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="16"/>
+        <Label x:Name="lblintrest" Content="jaarlijkse intrest" HorizontalAlignment="Left" Margin="52,120,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lblperiode" Content="periode" HorizontalAlignment="Left" Margin="52,151,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lbleuro" Content="euro" HorizontalAlignment="Left" Margin="419,78,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lblpercent" Content="%" HorizontalAlignment="Left" Margin="419,120,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lbljaar" Content="" HorizontalAlignment="Left" Margin="419,159,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="txtintrest" HorizontalAlignment="Left" Height="23" Margin="216,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="16"/>
+        <Slider x:Name="sldperiode" HorizontalAlignment="Left" Margin="139,159,0,0" VerticalAlignment="Top" Width="275" SmallChange="1" ValueChanged="sldperiode_ValueChanged" IsSnapToTickEnabled="True"/>
+        <Button x:Name="btnberekenen" Content="bereken" HorizontalAlignment="Left" Margin="52,230,0,0" VerticalAlignment="Top" Width="409" Height="56" Click="btnberekenen_Click"/>
+        <Label x:Name="lbltotaal" Content="..." HorizontalAlignment="Left" Margin="52,320,0,0" VerticalAlignment="Top" FontSize="16"/>
+
+    </Grid>
+</Window>

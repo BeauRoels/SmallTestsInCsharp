@@ -1,0 +1,7 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsoleScores\bin\Debug\ConsoleScores.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsoleScores\bin\Debug\ConsoleScores.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsoleScores\bin\Debug\ConsoleScores.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsoleScores\obj\Debug\ConsoleScores.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsoleScores\obj\Debug\ConsoleScores.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsoleScores\obj\Debug\ConsoleScores.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsoleScores\obj\Debug\ConsoleScores.pdb

@@ -1,0 +1,7 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsoleFibonacci\bin\Debug\ConsoleFibonacci.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsoleFibonacci\bin\Debug\ConsoleFibonacci.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsoleFibonacci\bin\Debug\ConsoleFibonacci.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsoleFibonacci\obj\Debug\ConsoleFibonacci.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsoleFibonacci\obj\Debug\ConsoleFibonacci.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsoleFibonacci\obj\Debug\ConsoleFibonacci.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsoleFibonacci\obj\Debug\ConsoleFibonacci.pdb

@@ -1,0 +1,13 @@
+C:\Users\beaur\source\repos\SlnLes01\ConsoleHeloWorld\bin\Debug\netcoreapp3.1\ConsoleHeloWorld.exe
+C:\Users\beaur\source\repos\SlnLes01\ConsoleHeloWorld\bin\Debug\netcoreapp3.1\ConsoleHeloWorld.deps.json
+C:\Users\beaur\source\repos\SlnLes01\ConsoleHeloWorld\bin\Debug\netcoreapp3.1\ConsoleHeloWorld.runtimeconfig.json
+C:\Users\beaur\source\repos\SlnLes01\ConsoleHeloWorld\bin\Debug\netcoreapp3.1\ConsoleHeloWorld.runtimeconfig.dev.json
+C:\Users\beaur\source\repos\SlnLes01\ConsoleHeloWorld\bin\Debug\netcoreapp3.1\ConsoleHeloWorld.dll
+C:\Users\beaur\source\repos\SlnLes01\ConsoleHeloWorld\bin\Debug\netcoreapp3.1\ConsoleHeloWorld.pdb
+C:\Users\beaur\source\repos\SlnLes01\ConsoleHeloWorld\obj\Debug\netcoreapp3.1\ConsoleHeloWorld.csprojAssemblyReference.cache
+C:\Users\beaur\source\repos\SlnLes01\ConsoleHeloWorld\obj\Debug\netcoreapp3.1\ConsoleHeloWorld.csproj.CoreCompileInputs.cache
+C:\Users\beaur\source\repos\SlnLes01\ConsoleHeloWorld\obj\Debug\netcoreapp3.1\ConsoleHeloWorld.AssemblyInfoInputs.cache
+C:\Users\beaur\source\repos\SlnLes01\ConsoleHeloWorld\obj\Debug\netcoreapp3.1\ConsoleHeloWorld.AssemblyInfo.cs
+C:\Users\beaur\source\repos\SlnLes01\ConsoleHeloWorld\obj\Debug\netcoreapp3.1\ConsoleHeloWorld.dll
+C:\Users\beaur\source\repos\SlnLes01\ConsoleHeloWorld\obj\Debug\netcoreapp3.1\ConsoleHeloWorld.pdb
+C:\Users\beaur\source\repos\SlnLes01\ConsoleHeloWorld\obj\Debug\netcoreapp3.1\ConsoleHeloWorld.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleBMI\bin\Debug\ConsoleBMI.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleBMI\bin\Debug\ConsoleBMI.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleBMI\bin\Debug\ConsoleBMI.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleBMI\obj\Debug\ConsoleBMI.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleBMI\obj\Debug\ConsoleBMI.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleBMI\obj\Debug\ConsoleBMI.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleBMI\obj\Debug\ConsoleBMI.pdb

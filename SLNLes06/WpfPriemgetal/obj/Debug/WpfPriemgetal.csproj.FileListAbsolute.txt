@@ -1,0 +1,15 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfPriemgetal\bin\Debug\WpfPriemgetal.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfPriemgetal\bin\Debug\WpfPriemgetal.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfPriemgetal\bin\Debug\WpfPriemgetal.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfPriemgetal\obj\Debug\WpfPriemgetal.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfPriemgetal\obj\Debug\MainWindow.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfPriemgetal\obj\Debug\App.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfPriemgetal\obj\Debug\WpfPriemgetal_MarkupCompile.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfPriemgetal\obj\Debug\WpfPriemgetal_MarkupCompile.lref
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfPriemgetal\obj\Debug\MainWindow.baml
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfPriemgetal\obj\Debug\WpfPriemgetal.g.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfPriemgetal\obj\Debug\WpfPriemgetal.Properties.Resources.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfPriemgetal\obj\Debug\WpfPriemgetal.csproj.GenerateResource.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfPriemgetal\obj\Debug\WpfPriemgetal.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfPriemgetal\obj\Debug\WpfPriemgetal.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\WpfPriemgetal\obj\Debug\WpfPriemgetal.pdb

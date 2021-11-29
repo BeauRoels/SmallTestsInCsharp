@@ -1,0 +1,7 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleGGD\bin\Debug\ConsoleGGD.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleGGD\bin\Debug\ConsoleGGD.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleGGD\bin\Debug\ConsoleGGD.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleGGD\obj\Debug\ConsoleGGD.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleGGD\obj\Debug\ConsoleGGD.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleGGD\obj\Debug\ConsoleGGD.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleGGD\obj\Debug\ConsoleGGD.pdb

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleBankautomaat", "ConsoleBankautomaat\ConsoleBankautomaat.csproj", "{F976FD48-1721-43F7-8184-0E900B0129A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGGD", "ConsoleGGD\ConsoleGGD.csproj", "{F36EFF27-2A09-420B-952F-121AC4D34C33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLancering", "ConsoleLancering\ConsoleLancering.csproj", "{FA640006-CB1F-4763-AFD2-70A294558FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRaden", "ConsoleRaden\ConsoleRaden.csproj", "{C7630FBA-1F17-45B6-9827-975052467D1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBodschappenlijst", "WpfBodschappenlijst\WpfBodschappenlijst.csproj", "{8423325B-467E-44E9-B010-C4E94F7064BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfEllipsen", "WpfEllipsen\WpfEllipsen.csproj", "{9F57C08A-5F91-42D0-9554-9CC4642DEDEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPriemgetal", "WpfPriemgetal\WpfPriemgetal.csproj", "{5AF68432-8AF0-4026-80BA-0B763FBE2075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F976FD48-1721-43F7-8184-0E900B0129A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F976FD48-1721-43F7-8184-0E900B0129A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F976FD48-1721-43F7-8184-0E900B0129A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F976FD48-1721-43F7-8184-0E900B0129A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F36EFF27-2A09-420B-952F-121AC4D34C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36EFF27-2A09-420B-952F-121AC4D34C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36EFF27-2A09-420B-952F-121AC4D34C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36EFF27-2A09-420B-952F-121AC4D34C33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA640006-CB1F-4763-AFD2-70A294558FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA640006-CB1F-4763-AFD2-70A294558FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA640006-CB1F-4763-AFD2-70A294558FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA640006-CB1F-4763-AFD2-70A294558FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7630FBA-1F17-45B6-9827-975052467D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7630FBA-1F17-45B6-9827-975052467D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7630FBA-1F17-45B6-9827-975052467D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7630FBA-1F17-45B6-9827-975052467D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8423325B-467E-44E9-B010-C4E94F7064BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8423325B-467E-44E9-B010-C4E94F7064BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8423325B-467E-44E9-B010-C4E94F7064BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8423325B-467E-44E9-B010-C4E94F7064BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F57C08A-5F91-42D0-9554-9CC4642DEDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F57C08A-5F91-42D0-9554-9CC4642DEDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F57C08A-5F91-42D0-9554-9CC4642DEDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F57C08A-5F91-42D0-9554-9CC4642DEDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF68432-8AF0-4026-80BA-0B763FBE2075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF68432-8AF0-4026-80BA-0B763FBE2075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF68432-8AF0-4026-80BA-0B763FBE2075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF68432-8AF0-4026-80BA-0B763FBE2075}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AC84553-A5C7-4926-B98E-AA41E1CF9952}
+	EndGlobalSection
+EndGlobal

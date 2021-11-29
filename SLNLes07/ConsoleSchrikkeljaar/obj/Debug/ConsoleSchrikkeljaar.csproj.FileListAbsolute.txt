@@ -1,0 +1,6 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes07\ConsoleSchrikkeljaar\bin\Debug\ConsoleSchrikkeljaar.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes07\ConsoleSchrikkeljaar\bin\Debug\ConsoleSchrikkeljaar.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes07\ConsoleSchrikkeljaar\bin\Debug\ConsoleSchrikkeljaar.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes07\ConsoleSchrikkeljaar\obj\Debug\ConsoleSchrikkeljaar.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes07\ConsoleSchrikkeljaar\obj\Debug\ConsoleSchrikkeljaar.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes07\ConsoleSchrikkeljaar\obj\Debug\ConsoleSchrikkeljaar.pdb

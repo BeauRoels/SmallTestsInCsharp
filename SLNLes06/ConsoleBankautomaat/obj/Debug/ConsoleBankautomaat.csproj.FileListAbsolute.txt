@@ -1,0 +1,7 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleBankautomaat\obj\Debug\ConsoleBankautomaat.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleBankautomaat\obj\Debug\ConsoleBankautomaat.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleBankautomaat\bin\Debug\ConsoleBankautomaat.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleBankautomaat\bin\Debug\ConsoleBankautomaat.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleBankautomaat\bin\Debug\ConsoleBankautomaat.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleBankautomaat\obj\Debug\ConsoleBankautomaat.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleBankautomaat\obj\Debug\ConsoleBankautomaat.pdb

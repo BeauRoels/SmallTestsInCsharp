@@ -1,0 +1,15 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfBieden\bin\Debug\WpfBieden.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfBieden\bin\Debug\WpfBieden.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfBieden\bin\Debug\WpfBieden.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfBieden\obj\Debug\WpfBieden.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfBieden\obj\Debug\MainWindow.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfBieden\obj\Debug\App.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfBieden\obj\Debug\WpfBieden_MarkupCompile.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfBieden\obj\Debug\WpfBieden_MarkupCompile.lref
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfBieden\obj\Debug\MainWindow.baml
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfBieden\obj\Debug\WpfBieden.g.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfBieden\obj\Debug\WpfBieden.Properties.Resources.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfBieden\obj\Debug\WpfBieden.csproj.GenerateResource.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfBieden\obj\Debug\WpfBieden.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfBieden\obj\Debug\WpfBieden.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfBieden\obj\Debug\WpfBieden.pdb

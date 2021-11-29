@@ -1,0 +1,15 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfRaden\bin\Debug\WpfRaden.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfRaden\bin\Debug\WpfRaden.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfRaden\bin\Debug\WpfRaden.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfRaden\obj\Debug\WpfRaden.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfRaden\obj\Debug\MainWindow.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfRaden\obj\Debug\App.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfRaden\obj\Debug\WpfRaden_MarkupCompile.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfRaden\obj\Debug\WpfRaden_MarkupCompile.lref
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfRaden\obj\Debug\MainWindow.baml
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfRaden\obj\Debug\WpfRaden.g.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfRaden\obj\Debug\WpfRaden.Properties.Resources.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfRaden\obj\Debug\WpfRaden.csproj.GenerateResource.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfRaden\obj\Debug\WpfRaden.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfRaden\obj\Debug\WpfRaden.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfRaden\obj\Debug\WpfRaden.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfDemo1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfDemo1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="291.648" Width="533.408" Background="#FFDCFFDE">
+    <Grid x:Name="wpfControlsDemo">
+        <Label x:Name="lblSpeak" Content="Welkom hoe heet je?" HorizontalAlignment="Left" Margin="10,29,0,0" VerticalAlignment="Top" Background="#FFC0FEFF" FontSize="20"/>
+        <Button x:Name="btnSpeak" Content="zeg iets" HorizontalAlignment="Left" Margin="10,93,0,0" VerticalAlignment="Top" Width="195" Height="37" Click="btnOK_Click"/>
+        <TextBox x:Name="txtText" HorizontalAlignment="Left" Height="37" Margin="264,93,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="212"/>
+        <Label x:Name="lbllabeltext" Content="Hoe heet je" HorizontalAlignment="Left" Margin="264,48,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.719,0.079"/>
+
+    </Grid>
+</Window>

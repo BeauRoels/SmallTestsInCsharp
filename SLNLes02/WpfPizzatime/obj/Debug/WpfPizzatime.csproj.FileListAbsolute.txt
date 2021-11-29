@@ -1,0 +1,15 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfPizzatime\bin\Debug\WpfPizzatime.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfPizzatime\bin\Debug\WpfPizzatime.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfPizzatime\bin\Debug\WpfPizzatime.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfPizzatime\obj\Debug\WpfPizzatime.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfPizzatime\obj\Debug\MainWindow.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfPizzatime\obj\Debug\App.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfPizzatime\obj\Debug\WpfPizzatime_MarkupCompile.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfPizzatime\obj\Debug\WpfPizzatime_MarkupCompile.lref
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfPizzatime\obj\Debug\MainWindow.baml
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfPizzatime\obj\Debug\WpfPizzatime.g.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfPizzatime\obj\Debug\WpfPizzatime.Properties.Resources.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfPizzatime\obj\Debug\WpfPizzatime.csproj.GenerateResource.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfPizzatime\obj\Debug\WpfPizzatime.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfPizzatime\obj\Debug\WpfPizzatime.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfPizzatime\obj\Debug\WpfPizzatime.pdb

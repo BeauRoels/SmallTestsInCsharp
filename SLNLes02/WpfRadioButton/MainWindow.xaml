@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfRadioButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfRadioButton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <RadioButton x:Name="rbOptie1" Content="Optie1" HorizontalAlignment="Left" Margin="81,66,0,0" VerticalAlignment="Top" Checked="rbOptie1_Checked"/>
+        <RadioButton x:Name="rbOptie2" Content="optie2" HorizontalAlignment="Left" Margin="81,86,0,0" VerticalAlignment="Top" Checked="rbOptie2_Checked"/>
+        <RadioButton x:Name="rbOptie3" Content="optie3" HorizontalAlignment="Left" Margin="81,106,0,0" VerticalAlignment="Top" Checked="rbOptie3_Checked"/>
+        <RadioButton x:Name="rbOptieA" Content="OptieA" HorizontalAlignment="Left" Margin="206,66,0,0" VerticalAlignment="Top" Checked="rbOptieA_Checked"/>
+        <RadioButton x:Name="rbOptieB" Content="optieB" HorizontalAlignment="Left" Margin="206,86,0,0" VerticalAlignment="Top" Checked="rbOptieB_Checked"/>
+        <RadioButton x:Name="rbOptieC" Content="optieC" HorizontalAlignment="Left" Margin="206,106,0,0" VerticalAlignment="Top" Checked="rbOptieC_Checked"/>
+        <Label x:Name="lblMessage" Content="Label" HorizontalAlignment="Left" Margin="81,160,0,0" VerticalAlignment="Top" RenderTransformOrigin="-8.294,-0.872"/>
+
+    </Grid>
+</Window>

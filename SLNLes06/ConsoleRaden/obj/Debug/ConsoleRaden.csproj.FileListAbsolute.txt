@@ -1,0 +1,7 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleRaden\bin\Debug\ConsoleRaden.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleRaden\bin\Debug\ConsoleRaden.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleRaden\bin\Debug\ConsoleRaden.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleRaden\obj\Debug\ConsoleRaden.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleRaden\obj\Debug\ConsoleRaden.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleRaden\obj\Debug\ConsoleRaden.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleRaden\obj\Debug\ConsoleRaden.pdb

@@ -1,0 +1,15 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfOpties\bin\Debug\WpfOpties.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfOpties\bin\Debug\WpfOpties.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfOpties\bin\Debug\WpfOpties.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfOpties\obj\Debug\WpfOpties.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfOpties\obj\Debug\MainWindow.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfOpties\obj\Debug\App.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfOpties\obj\Debug\WpfOpties_MarkupCompile.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfOpties\obj\Debug\WpfOpties_MarkupCompile.lref
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfOpties\obj\Debug\MainWindow.baml
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfOpties\obj\Debug\WpfOpties.g.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfOpties\obj\Debug\WpfOpties.Properties.Resources.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfOpties\obj\Debug\WpfOpties.csproj.GenerateResource.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfOpties\obj\Debug\WpfOpties.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfOpties\obj\Debug\WpfOpties.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes04\WpfOpties\obj\Debug\WpfOpties.pdb

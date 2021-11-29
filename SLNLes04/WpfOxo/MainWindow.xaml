@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfOxo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfOxo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="500">
+    <Grid>
+        <Button x:Name="btnEenEen" Content="X" HorizontalAlignment="Left" Height="110" Margin="35,36,0,0" VerticalAlignment="Top" Width="120" FontSize="48" Click="btn_Click"/>
+        <Button x:Name="btnEenTwee" Content="X" HorizontalAlignment="Left" Height="110" Margin="190,36,0,0" VerticalAlignment="Top" Width="120" FontSize="48" Click="btn_Click"/>
+        <Button x:Name="btnEenDrie" Content="X" HorizontalAlignment="Left" Height="110" Margin="343,36,0,0" VerticalAlignment="Top" Width="120" FontSize="48" Click="btn_Click"/>
+        <Button x:Name="btnTweeEen" Content="X" HorizontalAlignment="Left" Height="110" Margin="35,174,0,0" VerticalAlignment="Top" Width="120" FontSize="48" Click="btn_Click"/>
+        <Button x:Name="btnTweeTwee" Content="X" HorizontalAlignment="Left" Height="110" Margin="190,174,0,0" VerticalAlignment="Top" Width="120" FontSize="48" Click="btn_Click"/>
+        <Button x:Name="btnTweeDrie" Content="X" HorizontalAlignment="Left" Height="110" Margin="343,174,0,0" VerticalAlignment="Top" Width="120" FontSize="48" Click="btn_Click"/>
+        <Button x:Name="btnDrieEen" Content="X" HorizontalAlignment="Left" Height="110" Margin="35,311,0,0" VerticalAlignment="Top" Width="120" FontSize="48" Click="btn_Click"/>
+        <Button x:Name="btnDrieTwee" Content="X" HorizontalAlignment="Left" Height="110" Margin="190,311,0,0" VerticalAlignment="Top" Width="120" FontSize="48" Click="btn_Click"/>
+        <Button x:Name="btnDrieDrie" Content="X" HorizontalAlignment="Left" Height="110" Margin="343,311,0,0" VerticalAlignment="Top" Width="120" FontSize="48" Click="btn_Click"/>
+
+    </Grid>
+</Window>

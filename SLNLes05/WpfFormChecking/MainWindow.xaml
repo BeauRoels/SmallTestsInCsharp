@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfFormChecking.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfFormChecking"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lbl" Content="naam" HorizontalAlignment="Left" Margin="20,45,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lbl_Copy" Content="email" HorizontalAlignment="Left" Margin="20,81,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lbl_Copy1" Content="geboortedatum" HorizontalAlignment="Left" Margin="20,112,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lbl_Copy2" Content="profiel" HorizontalAlignment="Left" Margin="20,148,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lbl_Copy3" Content="passwoord" HorizontalAlignment="Left" Margin="20,179,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lbl_Copy4" Content="geslacht" HorizontalAlignment="Left" Margin="20,210,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="lbl_Copy5" Content="interesse" HorizontalAlignment="Left" Margin="20,246,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <RadioButton x:Name="rbman" Content="man" HorizontalAlignment="Left" Margin="144,221,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <RadioButton x:Name="rbvrouw" Content="vrouw" HorizontalAlignment="Left" Margin="282,221,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <CheckBox x:Name="cbprogrameren" Content="programmeren" HorizontalAlignment="Left" Margin="144,264,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <CheckBox x:Name="cbnetwerken" Content="netwerken" HorizontalAlignment="Left" Margin="144,279,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <CheckBox x:Name="cbbusiness" Content="business" HorizontalAlignment="Left" Margin="144,294,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <PasswordBox x:Name="pswpasswoord" HorizontalAlignment="Left" Margin="144,187,0,0" VerticalAlignment="Top" Width="245" FontSize="16"/>
+        <ComboBox x:Name="cbprofiel" HorizontalAlignment="Left" Margin="144,157,0,0" VerticalAlignment="Top" Width="245"/>
+        <TextBox x:Name="txtmail" HorizontalAlignment="Left" Height="23" Margin="144,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="245" FontSize="16"/>
+        <TextBox x:Name="txtnaam" HorizontalAlignment="Left" Height="23" Margin="144,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="245" FontSize="16"/>
+        <DatePicker x:Name="dateDatum" HorizontalAlignment="Left" Margin="144,119,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.399,0.457" Width="245" FontSize="16"/>
+        <Button x:Name="btnregistreren" Content="Registreren" HorizontalAlignment="Left" Margin="477,319,0,0" VerticalAlignment="Top" Width="278" Height="54" FontSize="16" Click="btnregistreren_Click"/>
+        <Button x:Name="btnwissen" Content="wissen" HorizontalAlignment="Left" Margin="144,319,0,0" VerticalAlignment="Top" Width="278" Height="54" FontSize="16" Click="btnwissen_Click"/>
+        <Label x:Name="lblnaam" Content="*" HorizontalAlignment="Left" Margin="434,45,0,0" VerticalAlignment="Top" FontSize="16" Foreground="#FFFF4600"/>
+        <Label x:Name="lblmail" Content="*" HorizontalAlignment="Left" Margin="434,81,0,0" VerticalAlignment="Top" FontSize="16" Foreground="#FFFF4600"/>
+        <Label x:Name="lbldatum" Content="*" HorizontalAlignment="Left" Margin="434,117,0,0" VerticalAlignment="Top" FontSize="16" Foreground="#FFFF4600"/>
+        <Label x:Name="lblprof" Content="*" HorizontalAlignment="Left" Margin="434,148,0,0" VerticalAlignment="Top" FontSize="16" Foreground="#FFFF4600"/>
+        <Label x:Name="lblpass" Content="*" HorizontalAlignment="Left" Margin="434,184,0,0" VerticalAlignment="Top" FontSize="16" Foreground="#FFFF4600"/>
+        <Label x:Name="lblsex" Content="*" HorizontalAlignment="Left" Margin="434,215,0,0" VerticalAlignment="Top" FontSize="16" Foreground="#FFFF4600"/>
+        <Label x:Name="lblint" Content="*" HorizontalAlignment="Left" Margin="434,251,0,0" VerticalAlignment="Top" FontSize="16" Foreground="#FFFF4600"/>
+
+    </Grid>
+</Window>

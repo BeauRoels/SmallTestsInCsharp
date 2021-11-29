@@ -1,0 +1,6 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleLancering\bin\Debug\ConsoleLancering.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleLancering\bin\Debug\ConsoleLancering.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleLancering\bin\Debug\ConsoleLancering.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleLancering\obj\Debug\ConsoleLancering.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleLancering\obj\Debug\ConsoleLancering.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes05\ConsoleLancering\obj\Debug\ConsoleLancering.pdb

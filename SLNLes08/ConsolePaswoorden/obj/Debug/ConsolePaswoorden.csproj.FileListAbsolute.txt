@@ -1,0 +1,7 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsolePaswoorden\bin\Debug\ConsolePaswoorden.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsolePaswoorden\bin\Debug\ConsolePaswoorden.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsolePaswoorden\bin\Debug\ConsolePaswoorden.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsolePaswoorden\obj\Debug\ConsolePaswoorden.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsolePaswoorden\obj\Debug\ConsolePaswoorden.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsolePaswoorden\obj\Debug\ConsolePaswoorden.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes08\ConsolePaswoorden\obj\Debug\ConsolePaswoorden.pdb

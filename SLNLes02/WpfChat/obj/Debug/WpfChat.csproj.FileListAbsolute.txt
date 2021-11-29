@@ -1,0 +1,14 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfChat\bin\Debug\WpfChat.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfChat\bin\Debug\WpfChat.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfChat\bin\Debug\WpfChat.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfChat\obj\Debug\MainWindow.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfChat\obj\Debug\App.g.cs
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfChat\obj\Debug\WpfChat_MarkupCompile.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfChat\obj\Debug\WpfChat_MarkupCompile.lref
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfChat\obj\Debug\MainWindow.baml
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfChat\obj\Debug\WpfChat.g.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfChat\obj\Debug\WpfChat.Properties.Resources.resources
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfChat\obj\Debug\WpfChat.csproj.GenerateResource.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfChat\obj\Debug\WpfChat.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfChat\obj\Debug\WpfChat.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes02\WpfChat\obj\Debug\WpfChat.pdb

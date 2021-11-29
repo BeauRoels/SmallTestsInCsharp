@@ -1,0 +1,7 @@
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleHms\bin\Debug\ConsoleHms.exe.config
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleHms\bin\Debug\ConsoleHms.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleHms\bin\Debug\ConsoleHms.pdb
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleHms\obj\Debug\ConsoleHms.csprojAssemblyReference.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleHms\obj\Debug\ConsoleHms.csproj.CoreCompileInputs.cache
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleHms\obj\Debug\ConsoleHms.exe
+D:\_05School\Odisee\IIP\Github\IIP-BeauRoels-2021\SLNLes03\ConsoleHms\obj\Debug\ConsoleHms.pdb
